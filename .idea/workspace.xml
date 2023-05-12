@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3f77fd5c-b3f8-4f55-896e-e3b63041c899" name="Changes" comment="a">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vite-project/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/vite-project/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vite-project/node_modules/.package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/vite-project/node_modules/.package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vite-project/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/vite-project/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vite-project/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/vite-project/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vite-project/src/main.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vite-project/src/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vite-project/src/typescript.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vite-project/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/vite-project/tsconfig.json" afterDir="false" />
-    </list>
+    <list default="true" id="3f77fd5c-b3f8-4f55-896e-e3b63041c899" name="Changes" comment="1 proba" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,6 +59,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="Push.Settings">
+    <force-push-targets>
+      <force-push-target remote-path="origin" branch="main" />
+    </force-push-targets>
+  </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\davvi\Desktop\Mój kurs\react\vite-project\src" />
@@ -105,7 +100,21 @@
       <option name="project" value="LOCAL" />
       <updated>1683893716509</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="git">
+      <created>1683895342922</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1683895342922</updated>
+    </task>
+    <task id="LOCAL-00005" summary="1 proba">
+      <created>1683895444152</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1683895444152</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -124,6 +133,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="a" />
-    <option name="LAST_COMMIT_MESSAGE" value="a" />
+    <MESSAGE value="git" />
+    <MESSAGE value="1 proba" />
+    <option name="LAST_COMMIT_MESSAGE" value="1 proba" />
   </component>
 </project>
